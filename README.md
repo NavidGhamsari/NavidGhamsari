@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Navid and I'm a developer interested in all things Python and Django!
+
+- 🔭 I’m currently working on Internet shopping website.
+- 👯 I’m looking to collaborate on Python projects
+    - Send me your ideas to navid.k.ghamsari@gmail.com
 
 <!--
 **NavidGhamsari/NavidGhamsari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
